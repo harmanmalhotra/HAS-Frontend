@@ -1,7 +1,7 @@
 {
   "name": "react_signin",
   "version": "0.1.0",
-  "proxy": "http://localhost:8080/",
+  "proxy": "https://has-backend-production.up.railway.app",
   "private": true,
   "dependencies": {
     "@blotoutio/ui-kit": "^0.16.29",
